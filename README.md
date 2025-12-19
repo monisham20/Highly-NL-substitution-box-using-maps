@@ -1,5 +1,4 @@
 # Highly-NL-substitution-box-using-maps
-Generation of highly nonlinear and dynamic s-box using logistic chaotic map:
 The project “Generation of Highly Nonlinear and Dynamic S-Box Using Logistic Chaotic Map” focuses on enhancing the security of block ciphers by designing a strong substitution box (S-box) using chaos theory. In symmetric cryptography, the S-box is the only nonlinear component and plays a critical role in resisting cryptanalytic attacks such as linear and differential cryptanalysis. Traditional static S-boxes (like the AES S-box) are fixed and publicly known, which can make them vulnerable to advanced attacks. To overcome this limitation, the proposed approach uses the logistic chaotic map, a simple yet powerful nonlinear mathematical model, to generate dynamic and key-dependent S-boxes with high unpredictability and randomness.
 
 l=rx(1-x) where r is the control parameter. here this logistic equation
